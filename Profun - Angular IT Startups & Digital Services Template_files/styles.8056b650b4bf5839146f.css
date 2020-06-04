@@ -11510,9 +11510,9 @@ h6 {
 }
 label {
     display: inline-block;
-    color: #0e314c;
+    color: #000;
     font-size: 15px;
-    font-weight: 500;
+    font-weight: bold;
     margin-bottom: 10px;
 }
 .form-control {
@@ -11520,7 +11520,7 @@ label {
     padding: 10px 15px;
     font-size: 14px;
     color: #0e314c;
-    border: 1px solid #eee;
+    border: 1px solid #b3b3b3!important;
     border-radius: 0;
     background: #eee;
     transition: 0.5s;
@@ -11696,16 +11696,18 @@ label {
     font-weight: 500;
     font-size: 15px;
     color: #4a6f8a;
-    margin-left: 14px;
-    margin-right: 14px;
-    padding: 0;
+    padding: 7px 15px;
 }
 .startp-nav nav .navbar-nav .nav-item a.active,
 .startp-nav nav .navbar-nav .nav-item a:focus,
 .startp-nav nav .navbar-nav .nav-item a:hover,
 .startp-nav nav .navbar-nav .nav-item.active a {
-    color: #44ce6f;
+    color: #ffffff;
+    background: #44ce6f;
+    padding: 7px 15px;
+    border-radius: 7px;
 }
+
 .startp-nav nav .navbar-nav .nav-item a svg {
     width: 14px;
 }
@@ -14372,6 +14374,10 @@ label {
 }
 .blog-area {
     padding-bottom: 50px;
+	background: url(https://public.touch2success.com/static/f81e1823ca1cca8ea997a0f3b4f07623/img/1591282909phpLbBaay.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .blog-area .pagination-area {
     margin-bottom: 30px;
@@ -26606,4 +26612,7 @@ label {
         -webkit-animation-iteration-count: 1 !important;
         animation-iteration-count: 1 !important;
     }
+}
+.solutions-box svg {
+    width: 42px;
 }
