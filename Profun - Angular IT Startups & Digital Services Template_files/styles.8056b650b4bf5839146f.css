@@ -17359,7 +17359,7 @@ label {
     margin-bottom: 45px;
     background-color: #fff;
     position: relative;
-    padding: 110px 65px 60px;
+    padding: 95px 65px 60px;
     border-radius: 5px;
     text-align: center;
 }
@@ -17429,6 +17429,7 @@ label {
     font-family: Flaticon;
     font-style: normal;
     font-size: 65px;
+	display: none;
 	
 }
 .ml-feedback-slides .single-testimonials-item {
