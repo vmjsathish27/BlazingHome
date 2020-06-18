@@ -13390,6 +13390,7 @@ label {
     bottom: 0;
 }
 .funfacts-area {
+	
     position: relative;
     z-index: 1;
 }
@@ -13831,7 +13832,10 @@ label {
     background-repeat: no-repeat;
     position: relative;
     z-index: 1;
-    padding-bottom: 50px;
+    
+}
+.ml-feedback-area .section-title {
+    padding-top: 60px;
 }
 .single-ml-feedback-item {
     box-shadow: 0 0 25px 3px rgba(0, 0, 0, 0.04);
@@ -14376,7 +14380,7 @@ label {
     visibility: visible;
 }
 .blog-area {
-    padding-bottom: 50px;
+    padding: 60px 0px;
 	background: url(https://public.touch2success.com/static/f81e1823ca1cca8ea997a0f3b4f07623/img/1592481439phpjGB0Y0.jpg);
     background-position: center;
     background-size: cover;
@@ -15516,7 +15520,7 @@ label {
     margin-top: 10px;
 }
 .solutions-area {
-    padding-bottom: 50px;
+    padding: 60px 0px;
     position: relative;
     z-index: 1;
 }
@@ -16675,11 +16679,12 @@ label {
     position: relative;
     overflow: hidden;
     z-index: 1;
-    padding-bottom: 50px;
+    padding: 60px 0px;
 }
 .ml-projects-area .section-title {
     text-align: center;
-    /*max-width: 530px;*/
+    /* max-width: 530px; */
+    padding-top: 60px;
 }
 .ml-projects-area .section-title h2 {
     /*max-width: 470px;*/
@@ -16692,6 +16697,10 @@ label {
 .ml-projects-area .container-fluid {
     position: relative;
 }
+.ml-feedback-slides.owl-carousel.owl-theme.owl-loaded.owl-drag {
+    padding-bottom: 60px;
+}
+
 .single-ml-projects-box {
     position: relative;
     border-radius: 5px;
@@ -17145,7 +17154,7 @@ label {
 .agency-main-banner {
     position: relative;
     z-index: 1;
-	padding-top: 110px;   
+	padding-top: 120px;   
     text-align: left;
 }
 .agency-main-banner .container-fluid {
@@ -17317,7 +17326,7 @@ label {
     z-index: -1;
 }
 .agency-services-area {
-    padding-bottom: 50px;
+    padding: 60px 0px;
     position: relative;
     z-index: 1;
     background: linear-gradient(to top, #d5fefd, #e1fdff, #effdff, #fafdff, #fff);
