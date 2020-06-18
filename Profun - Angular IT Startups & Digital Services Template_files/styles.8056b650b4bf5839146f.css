@@ -13825,7 +13825,10 @@ label {
     border-left: none;
 }
 .ml-feedback-area {
-    background: linear-gradient(to right top, #d5fefd, #e0fdff, #effbff, #fbfaff, #fffcff);
+    background: url(https://public.touch2success.com/static/f81e1823ca1cca8ea997a0f3b4f07623/img/1592481439phpzkij04.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     position: relative;
     z-index: 1;
     padding-bottom: 50px;
@@ -14374,7 +14377,7 @@ label {
 }
 .blog-area {
     padding-bottom: 50px;
-	background: url(https://public.touch2success.com/static/f81e1823ca1cca8ea997a0f3b4f07623/img/1591282909phpLbBaay.jpg);
+	background: url(https://public.touch2success.com/static/f81e1823ca1cca8ea997a0f3b4f07623/img/1592481439phpjGB0Y0.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -15416,7 +15419,7 @@ label {
 
 .PgaeTitle {
     padding: 200px 0px;
-    background: url(https://public.touch2success.com/static/f81e1823ca1cca8ea997a0f3b4f07623/img/1591625484phpRD8nu4.jpg);
+    background: url(https://public.touch2success.com/static/f81e1823ca1cca8ea997a0f3b4f07623/img/1592478824phpfXFimM.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -15425,13 +15428,13 @@ label {
     font-size: 44px;
     font-weight: 700;
     margin: 0;
-	text-align: center;
+	text-align: left;
 }
 
 .PgaeTitle p {
     font-size: 18px;
     font-weight: 500;    
-	text-align: center;
+	text-align: left;
 	color: #000;
     line-height: 1.8;
 }
@@ -17143,7 +17146,7 @@ label {
     position: relative;
     z-index: 1;
 	padding-top: 110px;   
-    text-align: center;
+    text-align: left;
 }
 .agency-main-banner .container-fluid {
     padding-left: 0;
@@ -23108,6 +23111,7 @@ label {
     .ml-feedback-area {
         padding-bottom: 20px;
     }
+	
     .ml-feedback-slides {
         max-width: 100%;
         margin: -40px 0 0;
